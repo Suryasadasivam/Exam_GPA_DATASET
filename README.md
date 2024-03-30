@@ -12,8 +12,8 @@ The "Exam Scores and GPA" dataset contains information about exam scores and cor
 - GPA: Grade Point Average of students.
 
 **Repository Structure**
-- Exam_Scores_and_GPA.csv: Contains the raw data file used in the analysis.
-- Exam_Scores_and_GPA.ipynb: Jupyter notebook containing the code for data exploration, preprocessing, analysis, and visualization.
+- Exam_gpa.csv: Contains the raw data file used in the analysis.
+- Exam_GPA_Dataset_.ipynb: Jupyter notebook containing the code for data exploration, preprocessing, analysis, and visualization.
 
 **Dependencies**
 - Python
